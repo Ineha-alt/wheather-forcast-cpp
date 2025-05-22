@@ -1,0 +1,17 @@
+{
+    "city": "panipat",
+    "forecast": [
+        {
+            "date": "2025-03-18 21:00:00",
+            "humidity": 29,
+            "temperature": 19.8,
+            "weather": "scattered clouds ☁️"
+        },
+        {
+            "date": "2025-03-19 21:00:00",
+            "humidity": 23,
+            "temperature": 19.92,
+            "weather": "clear sky ☀️"
+        }
+    ]
+}
