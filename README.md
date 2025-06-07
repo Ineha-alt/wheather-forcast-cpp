@@ -26,7 +26,9 @@ Enter number of forecast days (1-5): 3
 
 Weather forecast saved to data.json successfully
 
-🔧 Requirements
+
+## Requirements
+
 C++ compiler (e.g. g++)
 
 cURL library (with libcurl.dll)
