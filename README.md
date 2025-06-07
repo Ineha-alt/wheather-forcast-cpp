@@ -7,7 +7,7 @@ This is a simple console-based weather forecast application built in **C++** usi
 - **nlohmann/json** for JSON parsing
 - **File Handling** to save forecasts in a `data.json` file
 
-## 📌 Features
+##  Features
 
 - User inputs the city name and number of forecast days (1 to 5).
 - Fetches weather forecast every 3 hours from OpenWeatherMap.
@@ -15,13 +15,15 @@ This is a simple console-based weather forecast application built in **C++** usi
   - Date & time
   - Temperature
   - Humidity
-  - Weather description (with emoji 😊)
+  - Weather description with emoji 
 - Forecast is saved to a structured `data.json` file.
 
 ## 🖥️ Sample Output
 
 Enter city name: London
+
 Enter number of forecast days (1-5): 3
+
 Weather forecast saved to data.json successfully
 
 🔧 Requirements
