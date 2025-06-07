@@ -1,17 +1,29 @@
 {
-    "city": "panipat",
+    "city": "mumbai",
     "forecast": [
         {
-            "date": "2025-03-18 21:00:00",
-            "humidity": 29,
-            "temperature": 19.8,
+            "date": "2025-06-07 12:00:00",
+            "humidity": 77,
+            "temperature": 29.86,
+            "weather": "clear sky ☀️"
+        },
+        {
+            "date": "2025-06-08 12:00:00",
+            "humidity": 76,
+            "temperature": 29.58,
+            "weather": "broken clouds ☁️"
+        },
+        {
+            "date": "2025-06-09 12:00:00",
+            "humidity": 72,
+            "temperature": 29.6,
             "weather": "scattered clouds ☁️"
         },
         {
-            "date": "2025-03-19 21:00:00",
-            "humidity": 23,
-            "temperature": 19.92,
-            "weather": "clear sky ☀️"
+            "date": "2025-06-10 12:00:00",
+            "humidity": 78,
+            "temperature": 29.23,
+            "weather": "light rain 🌧️"
         }
     ]
 }
